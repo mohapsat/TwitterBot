@@ -2,7 +2,7 @@
 
 Hacked together in < 1 hr
 
-###Pre-requisites:
+### Pre-requisites:
 
 - [x] Signup for a twitter developers account
 - [x] Wait a couple hours or upto a day for approval
