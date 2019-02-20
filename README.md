@@ -15,11 +15,13 @@ Hacked together in < 1 hr
     - API_SECRET
     - ACCESS_TOKEN
     - ACCESS_TOKEN_SECRET
--[x] in `Main.py` replace users inside users list with the twitter handles of the users you'd like to retweet
-For example:
-`users = ['OpenAI', 'GitHubGameOff', 'SalesforceDevs', 'DeepMindAI', 'GoogleAI', 'techreview']` 
+    
+-[X] in `Main.py` replace users inside users list with the twitter handles of the users you'd like to retweet
+```For example:
+users = ['OpenAI', 'GitHubGameOff', 'SalesforceDevs', 'DeepMindAI', 'GoogleAI', 'techreview']
+``` 
 
--[x] Schedule to run on a desired interval
+-[X] Schedule to run on a desired interval
 
 - [X] Follow me on twitter [@mohapsat](https://twitter.com/mohapsat)
 - [X] Support Open Source and [Tweepy](https://tweepy.readthedocs.io/en/3.7.0/index.html) 
