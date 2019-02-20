@@ -14,7 +14,8 @@ user_ids = [] # empty list to hold ids
 users = ['OpenAI', 'GitHubGameOff', 'SalesforceDevs', 'DeepMindAI', 'GoogleAI', 'techreview',
          'distillpub', 'github', 'scratch', 'TensorFlow', 'godotengine', 'ARKInvest',
          'ForbesTech', 'TechCrunch', 'awscloud', 'a16z', 'NASA', 'ProductHunt', 'Google',
-         'mwseibel', 'ycombinator']
+         'mwseibel', 'ycombinator', 'ThePSF', 'djangoproject', 'restframework', 'pycon', 'E3', 'Xbox',
+         'IndieHackers', 'MIT', 'TEDTalks', 'MSFTResearch']
 
 for user in users:
     u = api.get_user(user)
