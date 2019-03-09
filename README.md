@@ -1,4 +1,4 @@
-## My Personal Tweeter (HN TOP 10)and Re-tweeter Bot
+## My Personal Tweeter (HN TOP 10) + Re-tweeter Bot
 
 Hacked together in a couple hrs.
 
