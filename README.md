@@ -1,6 +1,6 @@
-## My Personal Re-tweeter Bot
+## My Personal Tweeter (HN TOP 10)and Re-tweeter Bot
 
-Hacked together in < 1 hr
+Hacked together in a couple hrs.
 
 ### Pre-requisites:
 
