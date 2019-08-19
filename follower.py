@@ -44,7 +44,7 @@ try:
 
     # print(f"people my bot needs to follow: {not_following}")
 
-    for item in list(not_following)[:10]:
+    for item in list(not_following)[:1]:
         api.create_friendship(item)
         time.sleep(2)
         print(f"now following: {item}")
