@@ -12,7 +12,7 @@ api = tweepy.API(auth)
 
 user_ids = [] # empty list to hold ids
 
-users = ['OpenAI', 'GitHubGameOff', 'SalesforceDevs', 'DeepMindAI', 'GoogleAI', 'techreview',
+users = ['OpenAI', 'GitHubGameOff', 'SalesforceDevs', 'GoogleAI', 'techreview',
          'distillpub', 'github', 'scratch', 'TensorFlow', 'godotengine', 'ARKInvest',
          'ForbesTech', 'TechCrunch', 'awscloud', 'a16z', 'NASA', 'ProductHunt', 'Google',
          'mwseibel', 'ycombinator', 'ThePSF', 'djangoproject', 'restframework', 'pycon', 'E3', 'Xbox',
@@ -88,7 +88,7 @@ api = tweepy.API(auth)
 
 user_ids = [] # empty list to hold ids
 
-users = ['OpenAI', 'GitHubGameOff', 'SalesforceDevs', 'DeepMindAI', 'GoogleAI', 'techreview',
+users = ['OpenAI', 'GitHubGameOff', 'SalesforceDevs', 'GoogleAI', 'techreview',
          'distillpub', 'github', 'scratch', 'TensorFlow', 'godotengine', 'ARKInvest',
          'ForbesTech', 'TechCrunch', 'awscloud', 'a16z', 'NASA', 'ProductHunt', 'Google',
          'mwseibel', 'ycombinator', 'ThePSF', 'djangoproject', 'restframework', 'pycon', 'E3', 'Xbox',
