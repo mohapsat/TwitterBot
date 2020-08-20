@@ -15,7 +15,7 @@ user_ids = [] # empty list to hold ids
 users = ['OpenAI', 'GitHubGameOff', 'SalesforceDevs', 'GoogleAI', 'techreview',
          'distillpub', 'github', 'scratch', 'TensorFlow', 'godotengine', 'ARKInvest',
          'ForbesTech', 'TechCrunch', 'awscloud', 'a16z', 'NASA', 'ProductHunt', 'Google',
-         'mwseibel', 'ycombinator', 'ThePSF', 'djangoproject', 'restframework', 'pycon', 'E3', 'Xbox',
+         'mwseibel', 'ycombinator', 'ThePSF', 'djangoproject', 'restframework', 'pycon', 'E3', 'PlayStation',
          'IndieHackers', 'MIT', 'TEDTalks', 'MSFTResearch']
 
 # users = []
@@ -91,7 +91,7 @@ user_ids = [] # empty list to hold ids
 users = ['OpenAI', 'GitHubGameOff', 'SalesforceDevs', 'GoogleAI', 'techreview',
          'distillpub', 'github', 'scratch', 'TensorFlow', 'godotengine', 'ARKInvest',
          'ForbesTech', 'TechCrunch', 'awscloud', 'a16z', 'NASA', 'ProductHunt', 'Google',
-         'mwseibel', 'ycombinator', 'ThePSF', 'djangoproject', 'restframework', 'pycon', 'E3', 'Xbox',
+         'mwseibel', 'ycombinator', 'ThePSF', 'djangoproject', 'restframework', 'pycon', 'E3', 'PlayStation',
          'IndieHackers', 'MIT', 'TEDTalks', 'MSFTResearch', 'mohapsat']
 
 # users = []
