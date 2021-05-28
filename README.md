@@ -2,6 +2,8 @@
 
 Hacked together in a couple hrs.
 
+ <a href="https://www.buymeacoffee.com/3RBKdF0h9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ### Pre-requisites:
 
 - [x] Signup for a twitter developers account
